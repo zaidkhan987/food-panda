@@ -1,0 +1,128 @@
+.background{
+    background-color: #E21B70;
+}
+.buttons{
+    border: 1px solid white;
+    background-color: #E21B70;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 7%;
+}
+.buttons2{
+    border: 1px solid white;
+    background-color: #E21B70;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 12%;
+}
+h3{
+color: white;
+}
+
+.background2{
+    background-color: white;
+}
+.main-background{
+    /* background-color: rgb(237, 228, 228); */
+    background: linear-gradient(to bottom, rgb(237, 228, 228), white);
+
+}
+
+
+
+.chef-back {
+    background-image: url(./assets/chef.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    position: relative; 
+  }
+  
+  .container-fluid .content {
+    background-color:white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    height: 60%;
+    position: absolute; 
+    left: 20px;
+    top: 60%; 
+  }
+  
+  .container-fluid .content h5 {
+    margin-bottom: 10px;
+  }
+  
+  .container-fluid .content ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  
+  .container-fluid .content ul li {
+    margin-bottom: 5px;
+  }
+
+  
+
+  
+.chef-text{
+  margin:auto
+}
+
+
+
+/* question */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+  p {
+    margin-bottom: 20px;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  .highlight {
+    font-weight: bold;
+  }
+
+.footer {
+    background-color: #f8f9fa; 
+    padding: 20px 0;
+  }
+  
+  .footer ul {
+    padding: 0;
+  }
+  
+  .footer ul li {
+    list-style: none;
+  }
+  
+  .footer ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer ul li a:hover {
+    color: #007bff;
+  }
+  
+  .footer hr {
+    border-color: #ccc;
+    margin: 20px 0;
+  }
+  
+  
